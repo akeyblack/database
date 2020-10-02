@@ -6,18 +6,18 @@
 
 1. Модель «сутність-зв’язок» предметної галузі
 
-   ![V](https://piccy.info/view3/14003442/1759df91a45ce21412e24afd7d3cfc8b/)
+   ![V](https://i.ibb.co/0cFNjRp/654.png)
    
 2. Структура нормалізованої бази даних з назвами таблиць та зв’язками між ними
 
-   ![V](https://piccy.info/view3/14003483/b0ef897c0a390bb3a92fed87ea4c9dc6/)
+   ![V](https://i.ibb.co/DKn9JHk/432.png)
        
-![V](https://piccy.info/view3/14003520/5a1f668d0037bcb2b8bad842ad4651d0/)
+   ![V](https://i.ibb.co/PFpBtk8/4.png)
    
 3. Копії екранних форм вмісту таблиць бази даних з pgAdmin4 ( 2 - 3)
 
-      ![V](https://piccy.info/code2/14003498/e6a4b2a896455be472b6bcd3851c2f1d/)
+      ![V](https://i.ibb.co/F6Mpgrp/1.png)
 
-      ![V](https://piccy.info/code2/14003501/28bbc192c305b62537b313c58cd94da5/)
+      ![V](https://i.ibb.co/s69C5rq/2.png)
       
-      ![V](https://piccy.info/code2/14003502/be0ceae23f5442c7ac55774c68021d08/)
+      ![V](https://i.ibb.co/82S44RD/3.png)
